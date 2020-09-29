@@ -1,0 +1,8 @@
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Form1.resources
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.cache
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\Bryeguy527\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
